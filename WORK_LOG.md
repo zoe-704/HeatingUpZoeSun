@@ -5,5 +5,5 @@ Name: Zoe Sun
 | Jan 12 | 250-3pm |                             During class when Mr. Blick first introduced us to this problemset I recongized that this is a longest increasing subsequence problem, which I have done before in other coding classes. I forget how I specifically solved these kinds of problems since it was like a year ago, but I'm pretty sure you can use like dynamic programming to solve this problem. |
 | Jan 12 | 730-8pm | This is a LIS problem, so I'm going to use dp and store the length of the longest increasing subsequence by iterating through all values before for each index. It kind of reminds me of prefix sums in a way. I just implemented the dp approach, which worked after debugging a little bit. I forget what the java equivalent of a c++ vector is, so I manually filled an int array with 1. |
 
-
+ 
 To add a new row to the table, click into a cell and then hit shift-enter.
